@@ -2,7 +2,11 @@
 /* CSS Document */
 
 body {
-	background-color:#0FF;
+	background-image:url(gradation.png);
+	background-repeat:repeat-x;
+	background-color:#FFF;
+	background-position:left bottom;
+	background-attachment:fixed;
 }
 
 #container_innner {
