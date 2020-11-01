@@ -62,21 +62,17 @@ body {
 
 #content th {
 	width:100px;
-	border:solid #aaaaaa;
+	border:solid 1px #aaaaaa;
 	padding:8px;
 	font-size:0.875em;
 	color:#666;
 	text-align:left;
 }
 
-#content th {
-	border:solid #aaaaaa;
+#content td {
+	border:solid 1px #aaaaaa;
 	padding:8px;
 	font-size:0.875em;
 	color:#666;
 }
 
-#content td {
-	font-size:18px;
-	color:#666;
-}
