@@ -1,6 +1,15 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	background-color:#0FF;
+}
+
+#container_innner {
+	background-color:rgba(255,255,255,0.5);
+}
+
+
 h1 {
 	font-size:24px;
 	color:#666;
