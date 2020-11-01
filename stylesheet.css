@@ -63,6 +63,7 @@ body {
 #content table {
 	width:500px;
 	border-collapse:collapse;
+	padding:30px;
 }
 
 #content th {
