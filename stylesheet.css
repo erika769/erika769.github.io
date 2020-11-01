@@ -54,3 +54,29 @@ body {
 	font-size:18px;
 	color:#666;
 }
+
+#content table {
+	width:500px;
+	border-collapse:collapse;
+}
+
+#content th {
+	width:100px;
+	border:solid #aaaaaa;
+	padding:8px;
+	font-size:0.875em;
+	color:#666;
+	text-align:left;
+}
+
+#content th {
+	border:solid #aaaaaa;
+	padding:8px;
+	font-size:0.875em;
+	color:#666;
+}
+
+#content td {
+	font-size:18px;
+	color:#666;
+}
