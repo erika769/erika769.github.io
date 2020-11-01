@@ -67,8 +67,11 @@ body {
 }
 
 #content caption {
-	padding-top:5px;
+	padding-top:20px;
 	caption-side:bottom;
+	font-size:18px;
+	color:#666;
+	text-align:left;
 }
 
 #content th {
