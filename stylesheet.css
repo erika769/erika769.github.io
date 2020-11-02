@@ -9,9 +9,12 @@ body {
 	background-attachment:fixed;
 }
 
-#container_innner {
+#container {
 	width:900px;
 	padding:30px;
+}
+
+#container_innner {
 	background-color:rgba(255,255,255,0.5);
 }
 
